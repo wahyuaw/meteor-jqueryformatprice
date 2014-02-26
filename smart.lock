@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "jqueryformatprice": {
+        "path": "."
+      }
+    },
+    "packages": {
+      "jqueryformatprice": {
+        "path": "."
+      }
+    }
+  }
+}
