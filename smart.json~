@@ -1,0 +1,10 @@
+{
+    "name": "jqueryformatprice",
+    "description": "packaging jqueryformatprice for meteor JS.",
+    "author": "Wahyu AW",
+    "homepage": "https://github.com/wahyuaw/meteor-jqueryformatprice",
+    "version": "0.0.1",
+    "git": "https://github.com/wahyuaw/meteor-jqueryformatprice.git",
+    "packages": {}
+}
+
